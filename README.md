@@ -10,4 +10,6 @@ Follow the instruction to setup the project:
 2. Migrate/import database on `migrate/ratings.sql`
 3. Open `index.php` on browser
 
+![alt text](screenshot.jpg)
+
 End
